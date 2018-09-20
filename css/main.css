@@ -1,7 +1,8 @@
 @import "https://fonts.googleapis.com/css?family=Indie+Flower";
+
 @font-face {
   font-family:"Broadway";
-  src:url(../font/BROADWAY.ttf)
+  /*src:url(../font/BROADWAY.ttf)*/
 }
 
 * {
